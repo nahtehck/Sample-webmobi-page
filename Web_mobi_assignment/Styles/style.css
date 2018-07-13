@@ -1,0 +1,36 @@
+.container1{
+    padding: 20px;
+    background-color: #3498DB;
+}
+
+.container{
+    width: auto;
+}
+
+.btn{
+    font: bold;
+    font-size: 20px;
+    background-color: #3498DB;
+    color: white;   
+}
+
+.btn:hover, .btn:focus {
+    background-color: #2980B9;
+}
+
+.img{
+    width: 500px;
+    border-radius: 8px;
+}
+#about{
+    height: 400px;
+    background-color: #F0F8FF;
+}
+.col-sm-6{
+    background-image: url(./map.png);
+    border: solid;
+    height: 300px;
+}
+.row{
+    background-color: #3498DB; 
+}
